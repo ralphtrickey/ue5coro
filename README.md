@@ -4,6 +4,13 @@ These plugins implement C\+\+
 [coroutines](https://en.cppreference.com/w/cpp/language/coroutines) for
 Unreal Engine 5 with a focus on gameplay logic and BP integration.
 
+> [!NOTE]
+> You're looking at the 1.x branch.<br>
+> 2.0 is currently affected by multiple compiler bugs across MSVC and Clang.
+> Previews will not be published until it's usable out of the box.<br>
+> The changes required to update from 1.10 to 2.0 will be roughly as simple as
+> updating Unreal Engine by one or two versions.
+
 ## Installation
 
 Download the release that you wish to use from the
